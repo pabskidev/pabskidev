@@ -1,0 +1,81 @@
+Shiba Wars Information
+
+Shiba Wars is currently set to release on the 1st June 2025. It will release as a free game on PC availible for download on ShibaLauncher.
+
+Here are all editions, DLCS and transactions:
+
+DLCS
+
+Shiba Wars: DeluXe 
+- Price: £4.99
+- Description: Shiba Wars DeluXe gives you some... well... DeluXe perks! The DeluXe Shiba, The DeluXe Universal Hat, the Blade of DeluXe, 500,000 Shibbucks and 250 Dog-Tags!
+- Perks: DeluXe Shiba, DeluXe Universal Hat, Blade of DeluXe, 500k Shibbucks and 250 Dog-Tags
+
+Shiba Wars: Stars Beyond
+- Price: £4.99
+- Description: Explore the Stars and BEYOND with this DLC! On purchase, you will also recieve the Starry Shiba and 500 Dog-Tags!
+- Perks: Starry Shiba, 500 Dog-Tags, Campaign: Stars Beyond, Campaign Key
+- Extra Note: Campaign; Stars Beyond, features version that isn't full yet, there is 5 out of the 25 realms that is meant to be there as we want to dish these out. No additional charges after the £4.99.
+
+Shiba Wars: DeluXe and Stars Beyond
+- Price: £8.99
+- Description: Combine both the 1st bundles, Stars Beyond and DeluXe - Explore the Stars and BEYOND with this DLC! On purchase, you will also recieve the Starry Shiba and 500 Dog-Tags! Shiba Wars DeluXe gives you some... well... DeluXe perks! The DeluXe Shiba, The DeluXe Universal Hat, the Blade of DeluXe, 500,000 Shibbucks and 250 Dog-Tags!
+- Perks: DeluXe Shiba, DeluXe Universal Hat, Blade of DeluXe, 500k Shibbucks, 750 Dog-Tags and Starry Shiba
+- Extra Note: Campaign; Stars Beyond, features version that isn't full yet, there is 5 out of the 25 realms that is meant to be there as we want to dish these out. No additional charges after the £8.99.
+
+Shiba Wars: Prix Shiba Bundle
+- Price: £1.99
+- Description: Before Ligatus, get ready for Ligatus! This pack is featured from 1st June 2025 to 1st July 2025!
+- Perks: Prix Shiba, 250k Shibbucks
+- Extra Note: This pack is limited time and won't return. From 1st June-1st July 2025.
+
+TRANSACTIONS
+
+Shibbucks Mug
+- Price: £0.49
+- Description: A tiny mug containing some shibbucks!
+- Perks: 50,000 Shibbucks
+
+Pockets filled with Shibbucks
+- Price: £2.49
+- Description: A rich shiba's Shibbucks-stuffed trousers availible for sale!
+- Perks: 200,000 Shibbucks
+
+Shibbucks Brewer
+- Price: £4.99
+- Description: This Wine Brewing Shiba seems to have left a message!
+- Perks: 600,000 Shibbucks
+
+Shibbucks Vault
+- Price: £9.99
+- Description: Ya hit the jackpot with this one.
+- Perks: 1,500,000 Shibbucks
+
+Developer Shibbucks Vault
+- Price: £Free (on certain accounts)
+- Description: developerProduct
+- Perks: 888,888,888 Shibbucks
+
+Dog-Tag Carver
+- Price: £0.99
+- Description: Seems carved to be honest.
+- Perks: 100 Dog-Tags
+
+Dog-Tag Factory
+- Price: £4.99
+- Description: A large factory products ton of these.
+- Perks: 625 Dog-Tags
+
+Dog-Tag Wish
+- Price: £9.99
+- Description: These ones seem brought from a place above.
+- Perks: 2500 Dog-Tags
+
+Developers Dog-Tag Wish
+- Price: £Free (on certain accounts)
+- Description: developerProduct
+- Perks: 888,888,888 Dog-Tags
+
+SUBSCRIPTION 
+
+Shiba Wars does not contain a subscription as of Version 1.0.0.0
