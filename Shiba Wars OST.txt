@@ -1,0 +1,58 @@
+Shiba Wars OST (updated as of 1.0.0.0) (updated as of 19th march 2024)
+
+-> Opening Themes (undecided)
+ - Bags on Racks 
+  - Open the Doors
+   - Racks with Bags
+
+-> Loading Themes (undecided)
+ - Waiting Room
+  - Take a Chair
+
+-> Battle Themes
+  - Modern Realm Themes
+   > Vines [NATURES DYNASTY]
+    - Vines (Intense)
+   > Steampower [FLIPPED FACTORY]
+    - Smokey
+   > Gatekept [ANARCHY GATES]
+    - Guarded (the Gates)
+   > Raiding [ANARCHY RAID]
+    - Raided (the Anarchy)
+   > Presidential Meeting [SPHERE OFFICE]
+    - Ice Cream Button 
+
+-> Collection Themes
+  - Shiba Book 
+   - Book o' Materials
+    - Item Books 
+     - Book o' Recipes 
+      - Book of Packets
+
+-> VFX
+ - select
+  - select1
+   - select2
+ - deselect 
+  - deselect1
+   - deselect2
+ - victory
+  - victory1
+ - defeat
+  - defeat1
+ - shibadead
+  - shibadead1
+ - shibaplace
+  - shibaplace1
+ - footstep
+  - footstep1
+   - footstep2
+    - footstep3
+     - footstep4
+      - footstepALL
+  - packet1
+   - packet2
+    - packet3
+     - packet4
+  - jingle
+   - jingle1
