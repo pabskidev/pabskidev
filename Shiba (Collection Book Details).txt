@@ -1,0 +1,170 @@
+Shiba (Collection Book Details)
+
+[ENTRY]
+
+The classic - the face of the brand - the go-to. It's the Common Shiba, the one thats everywhere - the one thats everything! 
+
+[CELLSINFO]
+
+You can get Cells for Shiba by:
+
+Buying with Dog-Tags
+Special Promotions
+
+[COST]
+
+BASIC 
+LVL 1: 250 Tickets
+LVL 2: 225 Tickets
+LVL 3: 200 Tickets
+LVL 4: 175 Tickets
+LVL 5: 150 Tickets
+LVL 6: 145 Tickets
+LVL 7: 140 Tickets
+LVL 8: 135 Tickets
+LVL 9: 130 Tickets
+LVL 10: 125 Tickets
+LVL 11: 120 Tickets
+LVL 12: 115 Tickets
+LVL 13: 110 Tickets
+LVL 14: 105 Tickets
+LVL 15: 100 Tickets
+LVL 16: 95 Tickets
+LVL 17: 90 Tickets
+LVL 18: 85 Tickets
+LVL 19: 80 Tickets
+LVL 20: 75 Tickets
+
+APPRENTICE
+LVL 1: 70 Tickets
+LVL 2: 69 Tickets
+LVL 3: 68 Tickets
+LVL 4: 67 Tickets
+LVL 5: 65 Tickets
+LVL 6: 64 Tickets
+LVL 7: 63 Tickets
+LVL 8: 62 Tickets
+LVL 9: 61 Tickets
+LVL 10: 60 Tickets
+LVL 11: 59 Tickets
+LVL 12: 58 Tickets
+LVL 13: 57 Tickets
+LVL 14: 56 Tickets
+LVL 15: 55 Tickets
+LVL 16: 54 Tickets
+LVL 17: 53 Tickets
+LVL 18: 52 Tickets
+LVL 19: 51 Tickets
+LVL 20: 50 Tickets
+
+PRESTIGE
+LVL 1: 49 Tickets
+LVL 2: 48 Tickets
+LVL 3: 47 Tickets
+LVL 4: 46 Tickets
+LVL 5: 45 Tickets
+LVL 6: 44 Tickets
+LVL 7: 43 Tickets
+LVL 8: 42 Tickets
+LVL 9: 41 Tickets
+LVL 10: 40 Tickets
+LVL 11: 39 Tickets
+LVL 12: 38 Tickets
+LVL 13: 37 Tickets
+LVL 14: 36 Tickets
+LVL 15: 35 Tickets
+LVL 16: 34 Tickets
+LVL 17: 33 Tickets
+LVL 18: 32 Tickets
+LVL 19: 31 Tickets
+LVL 20: 30 Tickets
+
+ULTRA PRESTIGE
+LVL 1: 29 Tickets
+LVL 2: 28 Tickets
+LVL 3: 27 Tickets
+LVL 4: 26 Tickets
+LVL 5: 25 Tickets
+
+[REFRESH RATES]
+
+BASIC LVL1-20:
+5 seconds
+
+APPRENTICE LVL1-20:
+3 seconds
+
+PRESTIGE LVL1-20:
+1 seconds
+
+ULTRA PRESTIGE LVL1-5:
+No Cooldown
+
+[HEALTH]
+
+BASIC LVL1-20:
+300
+
+APPRENTICE LVL1-20:
+400
+
+PRESTIGE LVL1-20:
+500
+
+ULTRA PRESTIGE LVL1-5:
+1000
+
+[POWERBLAST MOVE]
+
+"Paws n' Scratches"
+An array of punches goes out in every column, each doing 100 damage.
+
+BASIC:
+5 punches in each column, 100 damage each.
+
+APPRENTICE:
+7 punches in each column, 125 damage each.
+
+PRESTIGE:
+10 punches in each column, 150 damage each.
+
+ULTRA PRESTIGE:
+25 punches in each column, 500 damage each.
+
+[CELLS PER LEVEL]
+
+(this counts for Basic Apprentice and Prestige)
+(Basic uses Basic Power Cells, Apprentice uses Apprentice Power Cells (5 Basic Power Cells = 1 Prestige Power Cell), Prestige uses Prestige Power Cells (10 Apprentice Power Cells = 1 Prestige Power Cell)
+
+LVL 1-2 5x
+LVL 2-3 10x
+LVL 3-4 15x
+LVL 4-5 20x
+LVL 5-6 25x
+LVL 6-7 30x
+LVL 7-8 35x
+LVL 8-9 40x
+LVL 9-10 45x
+LVL 10-11 50x
+LVL 11-12 55x
+LVL 12-13 60x
+LVL 13-14 65x
+LVL 14-15 70x
+LVL 15-16 75x
+LVL 16-17 80x
+LVL 17-18 85x
+LVL 18-19 90x
+LVL 19-20 100x
+(955 Cells in total) [Basic, Apprentice, Prestige]
+(4,775 Basic Cells for 995 Apprentice Cells)
+(47,750 Basic Cells for 995 Prestige Cells)
+
+(this counts for Ultra Prestige)
+(uses Ultra Prestige Power Cells, 100 Prestige Power Cells = 1 Ultra Prestige Power Cell)
+LVL 1-2 50x
+LVL 2-3 100x
+LVL 3-4 500x
+LVL 4-5 1000x
+
+(1,650 Ultra Prestige Cells)
+(5,000,650 Basic Cells for 1,650 Ultra Prestige Cells)
