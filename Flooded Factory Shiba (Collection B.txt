@@ -1,0 +1,28 @@
+Flooded Factory Shiba (Collection Book Entry)
+
+[DESCRIPTION]
+
+This evil Shiba was meant to be befriended by you, but you beat the Discambabular to it. You befriended it after beating the Discambabular, right before that robotic mess added the evil touches.
+
+What could ya do to a flood man.
+
+[STATISTICS]
+
+DEF 25,000
+DMG 25,000
+HP 25,000
+
+Pawtential Move Flood debuffs all Enemies defense.
+PAWMOVE DEF -500%
+
+Tribe: Aquatic
+
+[ATTACKS]
+
+Factorial DMG 25,000
+Flush DMG 25,000
+
+[INFORMATION]
+
+Flooded Factory Shiba is obtained from defeating the Discambabular.
+More flood?

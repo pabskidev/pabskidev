@@ -1,0 +1,30 @@
+S.W.A.T Raider Shiba (Collection Book Entry)
+
+[DESCRIPTION]
+
+This S.W.A.T Raider Shiba was intended to confuse your Shiba's, but now it is your Shiba.
+
+S.W.A.T going dark (soon).
+
+[STATISTICS]
+
+DEF 10,000
+DMG 50,000
+HP 50,000
+
+Pawtential Move Warfare eliminates all enemies.
+PAWMOVE DMG -100%
+
+Tribe: Tactical
+
+[ATTACKS]
+
+Gunfire DMG 10,000
+Snipe DMG 25,000
+Headshot DMG 50,000
+Tactical DMG 100,000
+
+[INFORMATION]
+
+S.W.A.T Raider Shiba is obtained by defeating the S.W.A.T Dragon.
+Going dark, coming soon.

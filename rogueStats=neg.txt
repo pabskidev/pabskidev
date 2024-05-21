@@ -1,0 +1,11 @@
+rogueStats=neg
+
+Rogue Shiba starts are 10x everything.
+
+DMG is 10x more
+HP is 10x more
+Cooldown is 10x more
+Pawtential Moves are 10x faster
+Speed is 10x faster
+DEF is 10x more
+

@@ -1,0 +1,30 @@
+Natures Dynasty Shiba (Collection Book Entry)
+
+[DESCRIPTION]
+
+Straight from the Natureschompers soul, this Shiba who was previously encaged breaks through after a Mighty Warrior frees it.
+
+It's blossoming soon.
+
+[STATISTICS]
+
+DEF 25,000
+DMG 25,000
+HP 25,000
+
+Pawtential Move Naturetrek buffs all Shiba's defense.
+PAWMOVE DEF +500%
+
+Tribe: Nature
+
+[ATTACKS]
+
+Leaf of Chomper DMG 10,000
+Chompers Spit DMG 5,000
+Burrow (Success) DMG 25,000
+Burrow (Unsuccess) DEF -50%
+
+[INFORMATION]
+
+Natures Dynasty Shiba is obtained from defeating the Natureschomper.
+The beautiful blossom.

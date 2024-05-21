@@ -1,0 +1,30 @@
+Flarevius Anarchy Shiba (Collection Book Entry)
+
+[DESCRIPTION]
+
+Forged in the Feindepths of Hell. Sealed into the Sphere Office. Always find its way back.
+
+Ultraflame!!!
+
+[STATISTICS]
+
+DEF 100,000
+DMG 500,000
+HP 100,000
+
+Pawtential Move Firebreathe eliminates all enemies and the next wave will have -50% defense.
+PAWMOVE DMG -100%, DEF -50%
+
+Tribe: Flame
+
+[ATTACKS]
+
+Firestomp DMG 50,000
+Breathe of Flames DMG 75,000
+Feindepths Fires DMG 100,000
+Unholy Fire DMG 500,000
+
+[INFORMATION]
+
+Flarevius Anarchy Shiba is obtained by defeating President A.C.O.R.N.
+The Flame will be ultra.

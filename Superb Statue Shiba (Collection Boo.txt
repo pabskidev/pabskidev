@@ -1,0 +1,27 @@
+Superb Statue Shiba (Collection Book Entry)
+
+[DESCRIPTION]
+
+... It's a Statue.
+
+This one may become majestic soon.
+
+[STATISTICS]
+
+DEF 100,000
+DMG 0
+HP 100,000
+
+Pawtential Move Elegance buffs defense.
+PAWMOVE DEF +1000%
+
+Tribe: Rock
+
+[ATTACKS]
+
+Stance DEF +50%
+
+[INFORMATION]
+
+Superb Statue Shiba is obtained by defeating the Statue of Wisdom.
+Majestical.
